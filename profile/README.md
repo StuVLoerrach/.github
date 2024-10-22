@@ -10,5 +10,5 @@ Die Studierendenvertretung (StuV) der DHBW Lörrach vertritt die Interessen der 
 
 Falls du Fragen hast oder uns direkt kontaktieren möchtest, erreichst du uns über:
 
-- **E-Mail**: stuv@dhbw-loerrach.de
-- **Website**: [StuV Lörrach Website](https://www.dhbw-loerrach.de/stuv)
+- **E-Mail**: edv@stuv-loerrach.de
+- **Website**: [StuV Lörrach Website](https://stuv-loerrach.de)
